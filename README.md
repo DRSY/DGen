@@ -11,6 +11,8 @@ URL: http://202.120.38.146:10090/wordnet_dgen
     "answer": "gravity",
     "num": 3
 }
+
+
 **result**
 {
     "requested_k": 3,
